@@ -1,0 +1,27 @@
+body {
+    background-color: red;
+    color: white;
+    
+  }h1 { 
+      color: red;
+  }
+  p {
+      color: orange;
+  }
+  p {
+      border: 1px solid powderblue;
+      margin: 25px;
+  }
+  p {
+      border: 1px solid powderblue;
+      padding: 25px;
+  }
+  p {
+    background-color: darkblue;
+  }
+  .intro { 
+    background-color: yellow;
+  }
+  #firstname and lastname { 
+    background-color: darkred;
+}
